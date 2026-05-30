@@ -1,35 +1,164 @@
-# 💫 About Me:
-Hi 👋, I am Vivek Singla . Aspiring Full-Stack Web Developer.
+<div align="center">
 
-# 💻 Tech Stack:
+```
+██╗   ██╗██╗██╗   ██╗███████╗██╗  ██╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗      █████╗ 
+██║   ██║██║██║   ██║██╔════╝██║ ██╔╝    ██╔════╝██║████╗  ██║██╔════╝ ██║     ██╔══██╗
+██║   ██║██║██║   ██║█████╗  █████╔╝     ███████╗██║██╔██╗ ██║██║  ███╗██║     ███████║
+╚██╗ ██╔╝██║╚██╗ ██╔╝██╔══╝  ██╔═██╗     ╚════██║██║██║╚██╗██║██║   ██║██║     ██╔══██║
+ ╚████╔╝ ██║ ╚████╔╝ ███████╗██║  ██╗    ███████║██║██║ ╚████║╚██████╔╝███████╗██║  ██║
+  ╚═══╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝    ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![EmbeddedJS](https://img.shields.io/badge/ejs-%23A91E50.svg?style=for-the-badge&logo=ejs&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Nodemon](https://img.shields.io/badge/nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+**Full-Stack Developer · Open Source Contributor · CS @ UIET, Panjab University**
 
+[![Portfolio](https://img.shields.io/badge/viveksingla.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://viveksingla.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-singla-b73439293)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:singlavivek2005@gmail.com)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/viveksingla20/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vivek-singla-b73439293/) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VivekSingla20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VivekSingla20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSingla20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VivekSingla20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VivekSingla20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a 3rd-year Computer Science student at UIET, Panjab University, building full-stack web applications that reach real users. I've shipped production systems — from JWT-secured REST APIs to headless CMS integrations — and enjoy the end-to-end ownership that comes with full-stack work.
+
+Currently contributing to [Summer of Bitcoin 2026](https://github.com/genesis-kb/genesis-kb.github.io) as part of my open-source journey, and exploring how GenAI can be layered into real products.
+
+---
+
+## Experience
+
+**Full Stack Developer Intern @ [TECPU](https://tecpu.in)** *(Dec 2024 – May 2025)*
+Built and deployed `tecpu.in` end-to-end — admin panel, image upload workflows, JWT-secured REST API, and RBAC. Stack: React, Tailwind CSS, Express.js, PostgreSQL.
+
+**Frontend Developer & Team Lead @ [Design Innovation Centre, UIET](https://github.com/uiet-chandigarh/uiet-frontend)** *(Jun 2025 – Jul 2025)*
+Led a 5-member team to fully revamp the UIET institutional website. Shipped 20+ responsive pages in React + TypeScript and integrated Strapi CMS so non-technical staff can self-manage content.
+
+---
+
+## Projects
+
+### 🟠 [BitScribe](https://genesis-kb.github.io) — *Repository accepted into Summer of Bitcoin 2026*
+Full-stack Bitcoin transcript explorer. React 18 + TypeScript frontend with global debounced search across thousands of transcripts, backed by Supabase. Features a 4-tab viewer (Summary, Chat, Audio, Reader) with real-time AI responses via Node.js/Express and CI/CD via GitHub Actions.
+
+`React 18` `TypeScript` `Node.js` `Express.js` `Supabase` `Gemini API` `GitHub Actions`
+
+---
+
+### 🏡 [VillageStay](https://villagestay.me) — *Infosys Hackathon 2025 · Top 12 Nationwide*
+Full-stack homestay booking platform connecting urban travelers with rural hosts across India. Built and owned the backend (listing management, JWT auth, end-to-end booking flow) under hackathon time constraints. Ranked top 12 out of thousands of teams.
+
+`React` `Node.js` `Express.js` `MySQL` `JWT` `Tailwind CSS`
+
+---
+
+### 🧠 [DocuMind](https://github.com/VivekSingla20) — *RAG PDF Chatbot*
+PDF chatbot using Retrieval-Augmented Generation. Chunks documents, runs FAISS vector similarity search, and returns context-grounded answers via Google Gemini API — no hallucination. Deployed on Streamlit Cloud.
+
+`Python` `LangChain` `Google Gemini API` `FAISS` `PyMuPDF` `Streamlit`
+
+---
+
+### 📚 [ExamPrep Central](https://github.com/VivekSingla20/examprepCentral)
+Study platform for 1st and 2nd-year college students — study materials, to-do list, previous year questions, academic calendar. Built with React and MySQL.
+
+`React` `MySQL` `JavaScript`
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI / GenAI**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Achievements
+
+| 🏆 | Achievement |
+|---|---|
+| 🥇 | **Top 12 Nationwide** — Infosys Global Hackathon 2025, Hyderabad (thousands of teams) |
+| ₿ | **Repository accepted into Summer of Bitcoin 2026** — BitScribe selected for this competitive global open-source program |
+| ⚡ | **24-Hour Hackathon** — Hack-Wars, Chandigarh University (Sept 2024) |
+
+---
+
+## DSA
+
+Actively solving problems across:
+
+`Arrays` `Strings` `Trees` `Graphs` `Sliding Window` `Binary Search` `Greedy` `Linked Lists`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VivekSingla20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSingla20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSingla20&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## Currently
+
+- 🔨 Contributing to **Repository accepted into Summer of Bitcoin 2026** (BitScribe)
+- 📖 Deepening TypeScript & system design knowledge
+- 🌐 Open to **internships** and **full-stack roles**
+
+---
+
+<div align="center">
+
+*Open to relocation · Based in Chandigarh, India*
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=VivekSingla20&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
