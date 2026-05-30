@@ -20,10 +20,7 @@
 ---
 
 ## About
-
-I'm a 3rd-year Computer Science student at UIET, Panjab University, building full-stack web applications that reach real users. I've shipped production systems — from JWT-secured REST APIs to headless CMS integrations — and enjoy the end-to-end ownership that comes with full-stack work.
-
-Currently contributing to [Summer of Bitcoin 2026](https://github.com/genesis-kb/genesis-kb.github.io) as part of my open-source journey, and exploring how GenAI can be layered into real products.
+Full-Stack Developer and CS student at UIET, Panjab University. I build and ship real products — from production REST APIs and role-based auth systems to institutional websites and open-source Bitcoin tooling. When I'm not coding, I'm solving DSA problems or exploring how GenAI fits into real-world apps.
 
 ---
 
@@ -39,10 +36,10 @@ Led a 5-member team to fully revamp the UIET institutional website. Shipped 20+ 
 
 ## Projects
 
-### 🟠 [BitScribe](https://genesis-kb.github.io) — *Repository accepted into Summer of Bitcoin 2026*
-Full-stack Bitcoin transcript explorer. React 18 + TypeScript frontend with global debounced search across thousands of transcripts, backed by Supabase. Features a 4-tab viewer (Summary, Chat, Audio, Reader) with real-time AI responses via Node.js/Express and CI/CD via GitHub Actions.
+### 🟠 [BitScribe](https://genesis-kb.github.io) · [GitHub](https://github.com/genesis-kb/genesis-kb.github.io)
+Frontend for a full-stack Bitcoin transcript explorer. React 18 + TypeScript frontend with global debounced search across thousands of transcripts. Features a 4-tab viewer (Summary, Chat, Audio, Reader) with real-time AI responses via Node.js/Express and CI/CD via GitHub Actions.
 
-`React 18` `TypeScript` `Node.js` `Express.js` `Supabase` `Gemini API` `GitHub Actions`
+`React 18` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Gemini API` `GitHub Actions`
 
 ---
 
@@ -121,29 +118,19 @@ Study platform for 1st and 2nd-year college students — study materials, to-do 
 | 🏆 | Achievement |
 |---|---|
 | 🥇 | **Top 12 Nationwide** — Infosys Global Hackathon 2025, Hyderabad (thousands of teams) |
-| ₿ | **Repository accepted into Summer of Bitcoin 2026** — BitScribe selected for this competitive global open-source program |
+| ₿ | **Repository accepted into Summer of Bitcoin 2026** — Genesis-kb selected for this competitive global open-source program |
 | ⚡ | **24-Hour Hackathon** — Hack-Wars, Chandigarh University (Sept 2024) |
-
----
-
-## DSA
-
-Actively solving problems across:
-
-`Arrays` `Strings` `Trees` `Graphs` `Sliding Window` `Binary Search` `Greedy` `Linked Lists`
 
 ---
 
 ## GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=VivekSingla20&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VivekSingla20&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VivekSingla20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=VivekSingla20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekSingla20&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSingla20&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
 
 ---
 
@@ -158,7 +145,5 @@ Actively solving problems across:
 <div align="center">
 
 *Open to relocation · Based in Chandigarh, India*
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=VivekSingla20&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
